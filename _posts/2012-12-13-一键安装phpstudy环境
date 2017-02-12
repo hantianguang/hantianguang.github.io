@@ -1,0 +1,10 @@
+在线phpstudy一键安装包    安装版： 　 （只需要三步）
+
+wget -c http://lamp.phpstudy.NET/phpstudy.bin  
+chmod +x phpstudy.bin    #权限设置 
+./phpstudy.bin 　　　　#运行安装 
+2 3 4 5 选择PHP版本  5 （为5.5版本）
+选择 Apache 或 Nginx 或 Tengine 或 Lighttpd，请输入 a 或 n 或 t 或 l :  (首字母为选择哪个服务器)
+y / n       y（确认开始安装） n（取消安装）
+需要一点时间（我差不多二十多分钟,根据网速时间不定）;
+完工
